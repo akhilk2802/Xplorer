@@ -21,7 +21,8 @@ Welcome to the Space Explorer Game, a thrilling adventure where players explore 
 
 ### Diagram
 
-![Space Explorer Architecture](./diagrams/space_explorer_architecture.png)
+![image](https://github.com/user-attachments/assets/ccd30c8b-d31b-4638-8051-41f41d54e1b4)
+
 
 ## Requirements
 
