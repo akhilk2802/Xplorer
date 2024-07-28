@@ -38,10 +38,16 @@ Welcome to the Space Explorer Game, a thrilling adventure where players explore 
 2. **Security**: Securely manage NFTs on the blockchain.
 3. **Scalability**: Handle multiple players and interactions simultaneously.
 
-## Setup and Installation
+## Usage
 
-### Prerequisites
+1. Open the application in your browser.
+2. Use the arrow keys or WASD to navigate through space.
+3. Encounter and defeat monsters to earn NFTs.
+4. Check your wallet for newly minted monster NFTs.
 
-- Node.js
-- npm
-- Polkadot.js
+## Technologies Used
+
+- **Three.js**: For creating and displaying animated 3D computer graphics in a web browser.
+- **Polkadot.js**: For interacting with the Polkadot blockchain.
+- **@thirdweb-dev/sdk**: For managing and minting NFTs.
+
